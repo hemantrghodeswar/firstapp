@@ -27,8 +27,8 @@ const Jotfrom =()=>  {
              
            <div className="jotheader">
             <div className="build"><h3>Build</h3></div>
-            <div className="pl-5" onClick={redirect}><h3>Setting</h3></div>
-            <div className="pl-5"><h3>Publish</h3></div>
+            <div className="build" onClick={redirect}><h3>Setting</h3></div>
+            <div className="build"><h3>Publish</h3></div>
 
             </div>
            

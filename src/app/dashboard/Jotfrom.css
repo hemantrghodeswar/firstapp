@@ -27,3 +27,21 @@
     display: flex;
     justify-content: space-between;
 }
+.jotheader > div{
+    /* border: 1px solid black; */
+    height: 50px;
+    width: auto;
+    padding: 20px ;
+}
+.jotheader > div:hover{
+    background: hsla(0,0%,100%,.25);
+}
+.jotheader > div > h3 {
+    font-size: 20px !important;
+    font-weight: 500 !important;
+    line-height: 10px;
+    /* background-color: #ffa857; */
+}
+/* .jotheader>div:hover {
+    background-color: black;
+} */

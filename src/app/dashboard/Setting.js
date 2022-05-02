@@ -7,6 +7,10 @@ const Setting = () => {
         <>
         <NavbarTwo />
         <Jotfrom />
+        <div className='setting_container'>
+            <div>hello</div>
+            <div>fsdfsfdsdfsdf</div>
+        </div>
         </>
     );
 };

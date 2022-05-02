@@ -32,12 +32,12 @@ class Topnavbar extends Component {
       // marginTop:'10px',
       // border:'1px solid #DFDFDF',
       // fontFamily: "Arial"
-      padding: "8px 15px",
+      padding: "8px 10px",
       border: "1px solid #DFDFDF",
       borderRadius: "6px",
       marginTop: "30px",
       fontStyle: "normal",
-      fontWeight: " 500",
+      fontWeight: " 600",
       fontSize: "12px",
       lineHeight: "16px",
       fontFamily: "Manrope",
@@ -45,6 +45,7 @@ class Topnavbar extends Component {
       height: "34px",
       background: "#ffffff",
       erticalAlign: "middle",
+     
     };
 
     const date = {
@@ -59,7 +60,7 @@ class Topnavbar extends Component {
       borderRadius: "6px",
       marginTop: "30px",
       fontStyle: "normal",
-      fontWeight: " 500",
+      fontWeight: " 600",
       fontSize: "12px",
       lineHeight: "16px",
       fontFamily: "Manrope",
@@ -102,6 +103,7 @@ class Topnavbar extends Component {
           </Link>
           </div> */}
           {/* <div><h1>hello</h1></div> */}
+          <div className="jotform_heading"><h1>Jotform</h1></div>
             <div className="font-weight-semibold   pt-3">
               <h3 className="message-gm">
                 {msg} <span className="text-black fw-bold">Jhon</span>

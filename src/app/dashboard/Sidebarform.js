@@ -11,12 +11,12 @@ require("formBuilder");
 const formData = [
   {
     type: "header",
-    subtype: "h1",
-    label: "formBuilder in React"
+    subtype: "h3",
+    label: "FormBuilder in Jotform"
   },
   {
     type: "paragraph",
-    label: "This is a demonstration of formBuilder running in a React project."
+    label: "This is a demonstration of formBuilder running in a jotform project."
   }
 ];
 
